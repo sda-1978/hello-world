@@ -30,7 +30,13 @@ This is project for learning git/github features
 			'$ git commit -m 'update README''
 			'$ git merge origin/readme'
 			'$ git push origin readme'
-
+	7. Get final version from github
+			'$ git pull origin master'
+			'$ git checkout master'
+			'$ git merge origin/master'
+	6. Delete branch 'readme' on github and desktop
+			'$ git branch -d readme --force'
+	
 			
 ##About
 
