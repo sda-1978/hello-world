@@ -36,7 +36,7 @@ This is project for learning git/github features
 			'$ git merge origin/master'
 	6. Delete branch 'readme' on github and desktop
 			'$ git branch -d readme --force'
-	
+	7. Update README.md on github an get latest version on desktop
 			
 ##About
 
