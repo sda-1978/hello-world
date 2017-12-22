@@ -27,5 +27,5 @@ This is project for learning git/github features
 			
 ##About
 
-Author: Dmitry Shemyakin
+Author: Dmitry Shemyakin  
 Repo: https://github.com/sda-1978/hello-world 
