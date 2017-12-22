@@ -25,6 +25,12 @@ This is project for learning git/github features
 			'$ git commit -m "add changes from desktop"'
 	4. Merge changes and push to github repo
 			'$ git push origin readme'...
+	5. Integrate changes on desktop
+			'$ git pull origin readme'
+			'$ git commit -m 'update README''
+			'$ git merge origin/readme'
+			'$ git push origin readme'
+
 			
 ##About
 
