@@ -14,7 +14,8 @@ This is project for learning git/github features
   
 ## What is done
 	1. On desktop create project hello-world
-			'$ git clone git://github.com/sda-1978/hello-world hello-world'
+			'$ git clone git://github.com/sda-1978/hello-world hello-world' - not correct, can't push into git:// 
+			'$ git clone https://github.com/sda-1978/hello-world.git hello-world'
 	2. Pull changes and go to branch 'readme'
 			'$ git pull'
 			'$ git branch --track readme origin/readme'
