@@ -25,3 +25,8 @@ This is project for learning git/github features
 			'$ git commit -m "add changes from desktop"'
 	4. Merge changes and push to github repo
 			'$ git push origin readme'...
+			
+##About
+
+Author: Dmitry Shemyakin  
+Repo: https://github.com/sda-1978/hello-world 
